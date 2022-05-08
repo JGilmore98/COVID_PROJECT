@@ -34,8 +34,6 @@ entrypoints
 executing
 fastjsonschema
 Fiona
-Flask==2.1.2
-Flask-Compress2
 folium.post1
 fonttools
 future
