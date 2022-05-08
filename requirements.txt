@@ -94,7 +94,7 @@ pyinstaller==5.0.1
 pyinstaller-hooks-contrib==2022.4
 Pympler==1.0.1
 pyparsing==3.0.7
-pyproj @ file:///C:/Users/Jairen%20Gilmore/Downloads/pyproj-3.3.1-cp39-cp39-win_amd64.whl
+pyproj==3.3.1 
 pyrsistent==0.18.1
 python-dateutil==2.8.2
 pytz==2022.1
