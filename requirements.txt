@@ -62,6 +62,7 @@ jupyter-core==4.9.2
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.1.0
 kiwisolver==1.4.2
+libgdal-dev==3.0.4+dfsg-1build3
 MarkupSafe==2.1.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
