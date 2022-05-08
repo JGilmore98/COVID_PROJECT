@@ -39,7 +39,6 @@ Flask-Compress==1.12
 folium==0.12.1.post1
 fonttools==4.33.3
 future==0.18.2
-GDAL==3.4.3 
 geojson==2.5.0
 geopandas==0.10.2
 gevent==21.12.0
